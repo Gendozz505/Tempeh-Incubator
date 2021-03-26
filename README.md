@@ -3,8 +3,8 @@ Launchpad with couple interesting features and comfortable interface for cooking
 
 
 You will need:
+  
   Arduino UNO
- 
  
   DHT22 sensor
   
