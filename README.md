@@ -19,7 +19,6 @@ You will need:
   red LED
   
   AC power adapter 9V
-  
   heating element
   
   
