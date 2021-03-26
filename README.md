@@ -1,7 +1,9 @@
 # Tempeh-Incubator
 Launchpad with couple interesting features and comfortable interface for cooking lovers.
 
+
 You will need:
+
   Arduino UNO
   
   DHT22 sensor
@@ -19,16 +21,24 @@ You will need:
   red LED
   
   AC power adapter 9V
+  
   heating element
   
   
-connect all your periferia as described below
+connect all your periferia as described below:
+
   DHT22 data pin to port 2
+  
   UP button pin to port 12
+  
   DOWN button pin to port 13
+  
   green LED (anode) to port 3
+  
   red LED (anode) to port 5
+  
   Relay data pin to port 4
+  
  
  !!!IMPORTANT!!!
  Do not connect relay VCC pin to 5V port of arduino to avoid overload. Insted you may solder it to "tip connector" or use special shield.
