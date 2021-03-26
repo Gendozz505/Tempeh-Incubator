@@ -4,7 +4,8 @@ Launchpad with couple interesting features and comfortable interface for cooking
 
 You will need:
   Arduino UNO
-  
+ 
+ 
   DHT22 sensor
   
   16x2 seeed LCD (if you use any other LCD you have to import a relevant librery)
