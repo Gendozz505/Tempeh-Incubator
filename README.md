@@ -27,3 +27,5 @@ connect all your periferia as described below:
  
  #### !!!IMPORTANT!!!
  Do not connect relay VCC pin to 5V port of arduino to avoid overload. Insted you may solder it to DC jack "[Tip](https://learn.sparkfun.com/tutorials/connector-basics/power-connectors)" connector or use special shield.
+
+"[a short video description](https://www.youtube.com/watch?v=93Pv_nzKMNA)"
