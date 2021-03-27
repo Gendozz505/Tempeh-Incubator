@@ -1,5 +1,5 @@
 # Tempeh-Incubator
-**I'm glad to introduce you a launchpad with couple interesting features and comfortable interface for cooking lovers.**
+I'm glad to introduce you a launchpad with couple interesting features and comfortable interface for cooking lovers.**
 
 You will need:
   * Arduino UNO
@@ -23,5 +23,5 @@ connect all your periferia as described below:
   * Relay data pin to port 4
   
  
- ###!!!IMPORTANT!!!⋅⋅
- ⋅⋅⋅Do not connect relay VCC pin to 5V port of arduino to avoid overload. Insted you may solder it to "tip connector" or use special shield.
+ #### !!!IMPORTANT!!!
+ Do not connect relay VCC pin to 5V port of arduino to avoid overload. Insted you may solder it to "tip connector" or use special shield.
