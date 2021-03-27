@@ -3,26 +3,16 @@ Launchpad with couple interesting features and comfortable interface for cooking
 
 
 You will need:
-  n\Arduino UNO
- 
-  DHT22 sensor
-  
-  16x2 seeed LCD (if you use any other LCD you have to import a relevant librery)
-  
-  relay 9v to 220v
-  
-  Switch  x2
-  
-  Resistor 220 ohm  x2 (to avoid switch bouncing)
-  
-  greeb LED
-  
-  red LED
-  
-  AC power adapter 9V
-  
-  heating element
-  
+  * Arduino UNO
+  * DHT22 sensor
+  * 16x2 seeed LCD (if you use any other LCD you have to import a relevant librery)
+  * relay 9v to 220v
+  * Switch  x2
+  * Resistor 220 ohm  x2 (to avoid switch bouncing)
+  * greeb LED
+  * red LED
+  * AC power adapter 9V
+  * heating element
   
 connect all your periferia as described below:
 
